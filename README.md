@@ -1,17 +1,16 @@
 ### Hi, I'm Angelo 👋
 
-Freelance software developer based between Santhià and Rome.
-I help small and medium businesses with **custom AI integrations**, **process automation**, **web apps** and **mobile apps** (Kotlin Multiplatform).
-
-💼 Have a project in mind? [Let's talk](https://chemickypes.github.io/#contact) · 🇮🇹 [Servizi in italiano](https://chemickypes.github.io/it/#services)
+Software developer between Santhià and Rome. Android apps for over ten years, now mostly **Kotlin Multiplatform**, **Python** and **AI agents**.
+AI is part of my daily workflow: I build with coding agents like Claude Code, from spec to Play Store.
 
 🌐 **Website:** [chemickypes.github.io](https://chemickypes.github.io)
 
 **Recent work**
+- [HPDFViewer](https://play.google.com/store/apps/details?id=com.hooloovoochimico.hpdfviewer) — read, fill in, sign and share PDFs (Android, on Google Play), built with AI coding agents
 - [HBible](https://github.com/chemickypes/hbible) — Bible study app with Hebrew/Greek interlinear (Kotlin Multiplatform)
 - [Termina Launcher](https://github.com/chemickypes/termina-launcher) — Android home screen as a terminal
 - [AnClaw](https://github.com/chemickypes/AnClaw-Telegram-AI-Agent-) — Telegram multi-agent AI assistant
 - [Yellow Racer](https://github.com/chemickypes/Yellow-Racer) — pseudo-3D racer for ESP32
 - [Redrawing Italy's Provinces](https://chemickypes.github.io/map-project/) — geospatial what-if on 7,896 comuni
 
-📫 [LinkedIn](https://www.linkedin.com/in/angelomoroni/) · [mor.angelo.mor@gmail.com](mailto:mor.angelo.mor@gmail.com)
+📫 Have an idea? Get in touch: [LinkedIn](https://www.linkedin.com/in/angelomoroni/) · [mor.angelo.mor@gmail.com](mailto:mor.angelo.mor@gmail.com)
