@@ -1,9 +1,11 @@
 ### Hi, I'm Angelo 👋
 
-Android & Python developer at Globant, based between Santhià and Rome.
-I build mobile apps with **Kotlin / Compose Multiplatform**, **AI agents** in Python, and the occasional game for a tiny screen.
+Freelance software developer based between Santhià and Rome.
+I help small and medium businesses with **custom AI integrations**, **process automation**, **web apps** and **mobile apps** (Kotlin Multiplatform).
 
-🌐 **Portfolio:** [chemickypes.github.io](https://chemickypes.github.io) · 🇮🇹 [versione italiana](https://chemickypes.github.io/it/)
+💼 Have a project in mind? [Let's talk](https://chemickypes.github.io/#contact) · 🇮🇹 [Servizi in italiano](https://chemickypes.github.io/it/#services)
+
+🌐 **Website:** [chemickypes.github.io](https://chemickypes.github.io)
 
 **Recent work**
 - [HBible](https://github.com/chemickypes/hbible) — Bible study app with Hebrew/Greek interlinear (Kotlin Multiplatform)
