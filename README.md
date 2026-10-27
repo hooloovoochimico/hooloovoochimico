@@ -1,6 +1,6 @@
 ### Hi, I'm Angelo 👋
 
-Software developer between Santhià and Rome. Android apps for over ten years, now mostly **Kotlin Multiplatform**, **Python** and **AI agents**.
+Software developer between Santhià and Rome. Android apps for over 12 years (team lead on **HYPE**, video streaming on **CHILI** and **FIFA+**), now mostly **Kotlin Multiplatform**, **Python** and **AI agents**.
 AI is part of my daily workflow: I build with coding agents (Claude Code, and OpenCode with Z.ai models), from spec to Play Store.
 
 🌐 **Website:** [chemickypes.github.io](https://chemickypes.github.io)
